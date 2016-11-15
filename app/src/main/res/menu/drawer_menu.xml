@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+      <item
+          android:id="@+id/home_id"
+          android:title="Home"
+          android:icon="@mipmap/ic_home_white_48dp"
+          >
+      </item>
+        <item
+            android:id="@+id/cell_phones_id"
+            android:title="Cell Phones"
+            android:icon="@mipmap/ic_phone_android_white_48dp"
+            >
+        </item>
+        <item
+            android:id="@+id/computers_id"
+            android:title="Computers"
+            android:icon="@mipmap/ic_desktop_windows_white_48dp"
+            >
+        </item>
+        <item android:id="@+id/laptop_id"
+            android:title="Laptops"
+            android:icon="@mipmap/ic_laptop_white_48dp">
+        </item>
+        <item
+            android:id="@+id/tv_id"
+            android:title="TV"
+            android:icon="@mipmap/ic_tv_white_48dp"
+            >
+        </item>
+        <item
+            android:id="@+id/home_theatre_id"
+            android:title="Home Theatre"
+            android:icon="@mipmap/ic_speaker_white_48dp"
+            >
+        </item>
+        <item
+            android:id="@+id/tablet_id"
+            android:title="Tablets"
+            android:icon="@mipmap/ic_tablet_android_white_48dp"
+            >
+        </item>
+        <item
+            android:id="@+id/camera_id"
+            android:title="Camera"
+            android:icon="@mipmap/ic_camera_alt_white_48dp"
+            >
+        </item>
+        <item
+            android:id="@+id/video_games_id"
+            android:title="Video Games"
+            android:icon="@mipmap/ic_videogame_asset_white_48dp"
+            >
+        </item>
+        <item
+        android:id="@+id/fitness_beauty_id"
+        android:title="Fitness and Beauty"
+        android:icon="@mipmap/ic_fitness_center_white_48dp"
+        >
+    </item>
+        <item android:id="@+id/head_phone_id"
+            android:title="Head Phones"
+            android:icon="@mipmap/ic_headset_white_48dp">
+        </item>
+    </group>
+</menu>

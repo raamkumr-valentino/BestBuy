@@ -1,0 +1,10 @@
+BestBuy Api--
+User-Name : DesignerRam
+Password  : Databinding@90
+api-key   : evtrx3mbnq2ewwx5swdt62du
+
+
+@Generated("org.jsonschema2pojo")
+
+
+view.loadUrl("javascript:(function(){var script=document.createElement(\"script\");script.innerHTML=\""+jscontent+"\";document.head.appendChild(script);})();");

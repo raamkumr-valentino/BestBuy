@@ -1,0 +1,23 @@
+best buy category path list
+
+mobile phones : https://api.bestbuy.com/v1/products((categoryPath.id=pcmcat209400050001))?apiKey=evtrx3mbnq2ewwx5swdt62du&pageSize=40&format=json
+
+desktop computers : https://api.bestbuy.com/v1/products((categoryPath.id=abcat0501000))?apiKey=evtrx3mbnq2ewwx5swdt62du&pageSize=40&format=json
+
+digital cameras : https://api.bestbuy.com/v1/products((categoryPath.id=abcat0401000))?apiKey=evtrx3mbnq2ewwx5swdt62du&pageSize=40&format=json
+
+fitness & beauty : https://api.bestbuy.com/v1/products((categoryPath.id=pcmcat242800050021))?apiKey=evtrx3mbnq2ewwx5swdt62du&pageSize=40&format=json
+
+head phones : https://api.bestbuy.com/v1/products((categoryPath.id=abcat0204000))?apiKey=evtrx3mbnq2ewwx5swdt62du&pageSize=40&format=json
+
+home audio : https://api.bestbuy.com/v1/products((categoryPath.id=pcmcat241600050001))?apiKey=evtrx3mbnq2ewwx5swdt62du&pageSize=40&format=json
+
+tablets : https://api.bestbuy.com/v1/products((categoryPath.id=pcmcat209000050006))?apiKey=evtrx3mbnq2ewwx5swdt62du&pageSize=40&format=json
+
+laptops : https://api.bestbuy.com/v1/products((categoryPath.id=abcat0502000))?apiKey=evtrx3mbnq2ewwx5swdt62du&pageSize=40&format=json
+
+games play station : https://api.bestbuy.com/v1/products((categoryPath.id=pcmcat295700050012))?apiKey=evtrx3mbnq2ewwx5swdt62du&pageSize=40&format=json
+
+tv : https://api.bestbuy.com/v1/products((categoryPath.id=abcat0101000))?apiKey=evtrx3mbnq2ewwx5swdt62du&pageSize=40&format=json
+
+
